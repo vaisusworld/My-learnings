@@ -1,1 +1,1 @@
- float(range(n))
+print("")
