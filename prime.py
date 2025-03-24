@@ -1,0 +1,1 @@
+ float(range(n))
