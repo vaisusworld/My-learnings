@@ -1,8 +1,9 @@
-m=[2,3,4,6,8,78,2]
+m=[0,3,4,5,6,7,0]
 
-def list(x):
-    for i in x:
-        c = i>i
-    print(i) 
-
-print(list(m))
+def greater(x):
+    k=0
+    for i in m :
+        if i>k:
+            k=i
+    return k
+greater(m)
