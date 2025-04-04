@@ -6,3 +6,4 @@ for i in range(n+1):
     # check if any number is divisible by 3 and 6 using function 
 # ask for number
 # for any number from range 0 to n if any number is divisible by 3 or 6 then print the i which is the number of times it is thr
+
